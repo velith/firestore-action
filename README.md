@@ -8,7 +8,7 @@ Github action for Firebase emulator
 ## Example usage
 
 ```yaml
-uses: actions/firestore-emulator@master
+uses: actions/cmp-fixa-firestore-action@master
 with:
     args: yarn test
 ```
