@@ -1,6 +1,5 @@
 FROM node:10
 
-RUN npm i -g yarn
 RUN npm i -g firebase-tools
 
 RUN apt upgrade && apt update
