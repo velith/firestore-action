@@ -7,4 +7,4 @@ if [ $# -eq 0 ]; then
   exit 123
 fi
 
-sh -c "firebase emulators:start --only firestore && $*"
+sh -c "firebase emulators:start --only firestore & $*"
