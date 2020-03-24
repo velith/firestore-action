@@ -1,5 +1,5 @@
-# cmp-fixa-firebase-action
-Github action for Firebase emulator 
+# Firestore Action
+Github action for a Firestore emulator. Can be used to run tests that requires a Firestore, see example.
 
 ## Inputs
 
