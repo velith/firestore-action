@@ -1,6 +1,6 @@
-FROM node:10
+FROM node:14
 
-LABEL version="1.1"
+LABEL version="2.0"
 LABEL maintainer="Fredrik Stål <fredrik.stil@gmail.com>"
 
 RUN npm i -g firebase-tools
