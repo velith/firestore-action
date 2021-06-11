@@ -3,7 +3,7 @@ Github action for a Firestore emulator. Can be used to run tests that requires a
 
 ## Inputs
 
-`args` - **Required**. Command to run once Firestore emulator is started
+`args` - **Required**. Command to run once Firestore emulator is started.
 
 ## Example usage
 
